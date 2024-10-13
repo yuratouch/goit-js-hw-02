@@ -1,1 +1,1 @@
-# goit-js-hw-02
+# Homework2 for JavaScript Fundamentals: From Basics to Advanced Concepts 2.0
